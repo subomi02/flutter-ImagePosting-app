@@ -1,6 +1,6 @@
 # SeeMee Image Posting App with Flutter and Firebase
 
-A completely Responsive Instagram App- Works on Android, iOS & Web! 
+A completely Responsive App- Works on Android, iOS & Web! 
 
 ## Features
 - Responsive Instagram UI
